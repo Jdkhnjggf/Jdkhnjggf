@@ -4,6 +4,5 @@
 
 - 🔭 I’m a PhD student in the [RootSec](https://roots.ec) lab at [CISPA](https://cispa.de/en).
 - 🙇‍♂️ I am mainly working on (micro)architectural attacks and TEE security.
-- 🌱 I’m a huge fan of CokeZero but not Pepsi.
+- 🌱 I’m a huge fan of Coke Zero but not Pepsi.
 - 📖 [ My Academic Page ](https://zhangruiyi.me/)
-- 🤔 有时候也发一点中文的闲扯在[这里](https://jdkhnjggf.github.io/)
